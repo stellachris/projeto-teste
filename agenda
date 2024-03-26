@@ -1,0 +1,3 @@
+def validaEmail(email):
+
+if email.count('@') == 1 AND
